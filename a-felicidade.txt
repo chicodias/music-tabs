@@ -1,0 +1,56 @@
+Tom Jobim - A Felicidade (Cifra)
+(Antonio Carlos Jobim/ Vinicius de Moraes)
+ 
+  
+(Am7(9) Em(b13) G11 )  
+Tristeza          nao tem fim,  
+  Am7(9) Em(b13) G11 Am6(9) Am7(9) Am7(11) Am7(9)  G7(9)(11) G7 
+Felici              dade    sim  
+C7+ C7+(#5)  C6 C7+ C7+(#5) Bm7(b5)        E7(4) E7 
+A            felici        dade e como a gota  
+Am7(9)                 G#m7 Gm7  
+De orvalho numa peta  la de flor  
+F           A#7(9)         Am7(9)     G11 
+Brilha tranquila depois de leve oscila  
+ F#m7(11)      F7(b5)    Em7 Am7(9)  G7(9)(11) G7(9) G7    
+E cai como uma  lagri       ma de amor  
+  
+C7+   C7+(#5) C6  C7+(#5) C7+ C7+(#5) C6 
+A     felicidade    do pobre parece  
+Gm7         C4(7)(6) D4(7)(9)  F9 F F9 F 
+A grande ilusao do     carnaval  
+Dm7(9)  Am(#5)(b13)    G7(9)(11) G7(b9) G4(6)(9) 
+A gente trabalha o ano inteiro  
+       Am7            F#m7(11) 
+Por um momento de sonho  
+B7(9b)            A#7(13) 
+Pra fazer   a fantasia  
+G7(13)       G#7(13)      G7(13)     
+De rei ou de pirata ou de jardineira  
+Am7(9)         E7(9+)   E7(9b)   Am7(9)  E4(7)(9)(13) 
+E tudo se acabar na quarta-feira  
+
+
+Em(b13)=0,X,5,5,0,0
+G11=3,X,5,5,0,X
+Am6(9)=X,0,4,5,0,0
+Am7(11)=X,0,5,5,3,3
+Am7(9)=X,0,5,5,0,0
+G7(9)(11)=3,X,3,2,1,X
+C7+(#5)=X,3,2,1,X,X
+Bm7(b5)=X,2,3,2,3,X
+E7(4)=0,2,0,2,0,X
+A#7(9)=X,1,0,1,1,X
+F#m7(11)=2,X,2,2,0,X
+G7(9)=3,X,3,2,0,X
+C4(7)(6)=X,0,0,0,5,5
+Dm7(9)=X,5,3,5,5,X
+Am(#5)(b13)=5,X,3,5,6,X
+G7(b9)=3,X,3,1,0,X
+G4(6)(9)=3,3,2,2,x,x
+A#7(13)=6,X,6,7,8,X
+G7(13)=3,X,3,4,5,X
+E7(9+)=X,6,5,6,7,X
+E7(9b)=X,7,6,7,6,X
+E4(7)(9)(13)=0,7,7,7,7,4
+
